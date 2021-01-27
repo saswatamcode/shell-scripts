@@ -1,0 +1,9 @@
+1. Write a shell script to accept 5 elements in an array and display them. 
+2. Write a shell script to display the elements of an array in reverse order.
+3. Write a shell script to sort the elements in an array using - 
+    (i) Selection sort
+    (ii) Bubble sort
+4. Write a shell script to insert an element in an array at a given position.
+5. Write a shell script to delete an element from an array at a given position.
+6. Write a shell script to perform linear search in an array for a given element. 
+7. Write a shell script to delete duplicate elements in a given array.
