@@ -1,0 +1,12 @@
+1. Write a shell  script to add two numbers using
+   (i) command line input
+   (ii) user input
+2. Write a shell script to exchange two variables without using a third variable
+3. Write a shell script to display the result of addition, subtraction, multiplication, 
+    division and modulus operations on two numbers.
+4. Write a shell script to display the gross salary of an employee as 
+    Gross = Basic + TA + HRA, where TA = 30% of basic, HRA = 7 % of basic
+5. Write a shell script to accept marks of 3 subjects and display average marks 
+    and percentage of a student.
+6. Write a shell script to convert temperature from Celsius to Fahrenheit.
+7. Write a shell script to extract the data from the date command, and display the result in numerical form with 12 hour format. (if the date command gives "Thu Jan 2 14:21:54 IST 2014" then display the result as "02/01/2014/2:21:54 PM")
