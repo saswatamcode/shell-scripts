@@ -1,0 +1,7 @@
+1. Write a shell program to find whether a given year is a leap year or not.
+2. Write a shell script to find the largest among 3 numbers.
+3. Write a shell program to display the prime numbers between 1 and 100.
+4. Write a shell script to reverse a given integer.
+5. Write a shell script to generate the student grade from marks.
+6. Write a shell script to convert a binary number to decimal. 
+7. Write a shell script to verify whether the given string is a palindrome or not.
